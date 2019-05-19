@@ -1,0 +1,3 @@
+<!DOCTYPE gui SYSTEM "kpartgui.dtd">
+<gui name="konqmficon" library="mfkonqmficon" version="1">
+</gui>
